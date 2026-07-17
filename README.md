@@ -1,4 +1,5 @@
 # ADSA
+
 ## 📚 Algorithms
 
 ### Merge Sort
@@ -11,4 +12,4 @@ Merge Sort is a comparison-based sorting algorithm that follows the **Divide and
 - **In-Place:** ❌ No
 
 ➡️ **Read the complete explanation and source code here:**
-- - [Merge Sort Java Code](MergeSort.java)
+- [Merge Sort (Java)](Merge_Sort/MERGESORT.md)
